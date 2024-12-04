@@ -9,7 +9,7 @@ Diseñar y estructurar una base de datos que refleje el inventario actual de Bod
 Registrar productos, categorías, ventas y proveedores en una base de datos SQL.
 Facilitar análisis futuros para mejorar la toma de decisiones comerciales.
 Proveer una herramienta base para explorar y expandir el modelo de negocio mediante análisis predictivos y dashboards.
-Estructura del Proyecto
+## Estructura del Proyecto
 ## Carpetas y Archivos Principales
 notebooks/
 Contiene los Jupyter Notebooks utilizados para:
